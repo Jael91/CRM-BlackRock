@@ -1,4 +1,4 @@
-# CrmBlackRock
+# CRM BlackRock
 Para desarrollar esta herramienta utilizamos **Angular, TypeScript, Ng Charts, Material UI, CSS, HTML y Firebase**.
 
 ![Aquí la vista del home de nuestra app](https://github.com/Jael91/CRM-BlackRock/blob/feat/updatesMay30/img-readme.png)
