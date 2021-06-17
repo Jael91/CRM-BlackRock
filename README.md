@@ -6,7 +6,7 @@ Esta aplicación surgió de la necesidad de nuestro cliente BlackRock para tener
 
 Después de realizar una investigación exploratoria y cualitativa con el cliente y algunos usuarios decidimos proponerles desarrollar un CRM.
 
-Para desarrollar esta herramienta utilizamos Angular, TypeScript, Ng Charts, Material UI, CSS, HTML y Firebase.
+Para desarrollar esta herramienta utilizamos **Angular, TypeScript, Ng Charts, Material UI, CSS, HTML y Firebase**.
 
 
 
