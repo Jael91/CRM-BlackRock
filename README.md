@@ -10,4 +10,3 @@ Para desarrollar esta herramienta utilizamos Angular, TypeScript, Ng Charts, Mat
 
 
 
-
